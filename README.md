@@ -1,3 +1,32 @@
+<h1 align="center"> Crypto Coinex</h1>
+
+To view a deploye link -> **[click here](https://crypto-coinex-live.netlify.app/)**.
+
+<p align="center"> 
+  <a href="https://ribhav-jain.github.io/portfolio" target="_blank"><img width="1063" alt="Screenshot 2023-03-08 220416" src="https://user-images.githubusercontent.com/99544644/223775708-6a0ca8e9-31d4-4009-90ab-f6cccba2ff7d.png">
+<img width="1079" alt="Screenshot 2023-03-08 220553" src="https://user-images.githubusercontent.com/99544644/223775726-3abc7de6-0fb4-4fce-a8ab-45acd770e91b.png">
+  </a>
+</p>
+
+## How to Use 📋
+
+- You'll need Node.js (which comes with npm) installed on your computer. While installing `nodejs`, try to install versions which are equal or greater than the versions mentioned in badges above.
+- After the successful installation of `nodejs` and `npm`, clone the repository into your local system.
+
+```bash
+# Clone this repository
+git clone https://github.com/ribhav-jain/portfolio.git
+
+# Go into the repository
+cd portfolio
+
+# Install dependencies
+npm install
+
+# Start a local dev server, it will open the website locally on your browser
+npm start
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +97,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Crypto--Coinex
