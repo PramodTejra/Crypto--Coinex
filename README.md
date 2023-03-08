@@ -1,6 +1,6 @@
 <h1 align="center"> Crypto Coinex</h1>
 
-To view a deploye link -> **[click here](https://ribhav-jain.github.io/portfolio/)**.
+To view a deploye link -> **[click here](https://crypto-coinex-live.netlify.app/)**.
 
 <p align="center"> 
   <a href="https://ribhav-jain.github.io/portfolio" target="_blank"><img width="1063" alt="Screenshot 2023-03-08 220416" src="https://user-images.githubusercontent.com/99544644/223775708-6a0ca8e9-31d4-4009-90ab-f6cccba2ff7d.png">
