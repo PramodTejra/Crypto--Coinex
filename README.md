@@ -3,7 +3,7 @@
 To view a deploye link -> **[click here](https://crypto-coinex-live.netlify.app/)**.
 
 <p align="center"> 
-  <a href="https://ribhav-jain.github.io/portfolio" target="_blank"><img width="1063" alt="Screenshot 2023-03-08 220416" src="https://user-images.githubusercontent.com/99544644/223775708-6a0ca8e9-31d4-4009-90ab-f6cccba2ff7d.png">
+  <a href="https://crypto-coinex-live.netlify.app/" target="_blank"><img width="1063" alt="Screenshot 2023-03-08 220416" src="https://user-images.githubusercontent.com/99544644/223775708-6a0ca8e9-31d4-4009-90ab-f6cccba2ff7d.png">
 <img width="1079" alt="Screenshot 2023-03-08 220553" src="https://user-images.githubusercontent.com/99544644/223775726-3abc7de6-0fb4-4fce-a8ab-45acd770e91b.png">
   </a>
 </p>
@@ -15,7 +15,7 @@ To view a deploye link -> **[click here](https://crypto-coinex-live.netlify.app/
 
 ```bash
 # Clone this repository
-git clone https://github.com/ribhav-jain/portfolio.git
+git clone https://github.com/PramodTejra/Crypto-Coinex.git
 
 # Go into the repository
 cd portfolio
