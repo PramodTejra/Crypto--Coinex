@@ -18,7 +18,7 @@ To view a deploye link -> **[click here](https://crypto-coinex-live.netlify.app/
 git clone https://github.com/PramodTejra/Crypto-Coinex.git
 
 # Go into the repository
-cd crypto-coinex
+cd Crypto-Coinex
 
 # Install dependencies
 npm install
